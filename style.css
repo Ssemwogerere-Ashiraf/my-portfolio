@@ -7,6 +7,12 @@ header {
     background: #f8f9fa;
     padding: 50px 0;
 }
+#date-time {
+    font-size: 24px;
+    font-weight:normal;
+    color: purple;
+    background-color: rgba(96, 165, 189, 0.5);
+}
 
 header h1 {
     font-size: 2.5rem;
