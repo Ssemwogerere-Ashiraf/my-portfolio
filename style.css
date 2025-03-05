@@ -34,6 +34,7 @@ header p {
 
 button, a {
     transition: all 0.3s;
+    color: white;
 }
 
 button:hover, a:hover {
